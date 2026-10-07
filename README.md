@@ -1,1 +1,1 @@
-# rapidresponse1-2026
+_Submission for Rapid Response Hackathon - October 7, 2026_
